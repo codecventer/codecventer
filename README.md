@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Christiaan Venter
-- :office: I'm a junior Java developer
+- :office: I'm a junior Java EE developer
 - :cloud: AWS Cloud Practitioner & Developer Associate
-- :technologist: Interested in Java EE, ASP.NET & MVC
+- :technologist: Other interests include Spring Boot, ASP.NET & MVC
