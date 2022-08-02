@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Christiaan Venter
-- :office: I'm a junior Java EE developer
+- :office: I'm a Java EE developer
 - :cloud: AWS Cloud Practitioner & Developer Associate
