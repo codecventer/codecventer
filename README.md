@@ -41,7 +41,7 @@ I am committed to leaving behind a codebase that is maintainable and bug-free lo
 - Java EE
 - Kotlin
 - TypeScript
-- Node.js (Express & Fastify)
+- Node.js (Express.js & Fastify)
 
 ### Frontend
 - Flutter
@@ -52,9 +52,9 @@ I am committed to leaving behind a codebase that is maintainable and bug-free lo
 ### Database
 - MySQL
 - PostgreSQL
-- Sequelize (ORM)
 - MongoDB
+- Sequelize (ORM)
 
 ### Cloud
-- AWS
-- GCP
+- AWS (certified AWS Cloud Practitioner & AWS Developer Associate)
+- GCP (Google Cloud Platform)
