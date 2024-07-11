@@ -38,22 +38,16 @@ I am committed to leaving behind a codebase that is maintainable and bug-free lo
 ## 🛠 Skills
 
 ### Backend
-- Java EE
-- Kotlin
-- TypeScript
-- Node.js (Express.js & Fastify)
+- Java EE            - Kotlin
+- TypeScript         - Node.js (Express.js & Fastify)
 
 ### Frontend
-- Flutter
-- Next.js
-- JSF (Primefaces)
-- JavaScript
+- Flutter            - Next.js
+- JSF (Primefaces)   - JavaScript
 
 ### Database
-- MySQL
-- PostgreSQL
-- MongoDB
-- Sequelize (ORM)
+- MySQL              - PostgreSQL
+- MongoDB            - Sequelize (ORM)
 
 ### Cloud
 - AWS (certified AWS Cloud Practitioner & AWS Developer Associate)
