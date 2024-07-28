@@ -2,7 +2,7 @@
 # Hi, I'm Christiaan! 👋
 
 ## 🚀 About Me
-I'm a full stack engineer with aspirations of becoming a software architect...
+I'm a full stack software engineer with aspirations of becoming a software architect...
 
 ## 📜 Mission Statement
 
